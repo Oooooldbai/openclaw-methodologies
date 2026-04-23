@@ -1,4 +1,4 @@
-# 锚点方法论（Anchor Methodology）
+# 锚定机制（Anchoring Mechanism）
 
 > 用检查点和自动化取代记忆和自觉。不依赖"记得"，依赖锚存在那里。
 
