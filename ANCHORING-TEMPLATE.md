@@ -29,6 +29,7 @@ Agent行为教训、重要决策、关键洞察——这些信息经常丢失。
 | **犯了错** | 过程+根因+正确做法 | SOUL.md Red Lines + FIREFIGHTER-MODE.md 反面案例 |
 | 建立新文件结构/目录 | 结构、用途、命名规则 | MEMORY.md + config.md |
 | **知识库入库** | 文件路径+关键词映射 | memory/index.md（关键词映射）+ 日志（入库记录） |
+| **收到有价值的内容**（文件/长段文字/原文/截图OCR结果） | 存到知识库对应项目目录 | Laobai-Second-Brain/50-Projects/ 或 topics/ |
 
 ### B类：过程自检（触发时强制执行）
 
